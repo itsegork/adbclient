@@ -1,2 +1,3 @@
 # Android Debug Bridge client with GUI
-![изображение](https://github.com/user-attachments/assets/c7c14a24-4165-4200-8596-9dfd6372e09a)
+![изображение](https://github.com/user-attachments/assets/19fb0114-94ef-43ed-b251-826c54a0fc1e)
+
